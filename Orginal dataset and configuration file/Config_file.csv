@@ -1,0 +1,21 @@
+SI_No,Company,Model,Amazon_Url
+Data_1,Apple,Apple iPhone 14 Pro Max (128 GB) - Deep Purple,https://www.amazon.in/Apple-iPhone-128GB-Deep-Purple/product-reviews/B0BDJH6GL8/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_2,Apple,Apple iPhone 14 Plus (128 GB) - Blue,https://www.amazon.in/Apple-iPhone-Plus-128GB-Blue/product-reviews/B0BDK62STN/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_3,Apple,Apple iPhone 14 (128 GB) - Blue,https://www.amazon.in/Apple-iPhone-14-128GB-Blue/product-reviews/B0BDK62PDX/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_4,Apple,Apple iPhone SE (64 GB) - Midnight (3rd Generation),https://www.amazon.in/Apple-iPhone-SE-64-Generation/product-reviews/B09V44MF6K/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_5,Apple,Apple iPhone 13 (256 GB) - Green,https://www.amazon.in/Apple-iPhone-13-256-GB/product-reviews/B09V4MXBSN/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_6,Apple,Apple iPhone 13 Mini (256GB) - Blue,https://www.amazon.in/Apple-iPhone-13-Mini-256GB/product-reviews/B09G99CW2C/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_7,Samsung,"Samsung Galaxy S23 5G (Green, 8GB, 256GB Storage)",https://www.amazon.in/Samsung-Galaxy-Green-256GB-Storage/product-reviews/B0BT9DVZLZ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_8,Samsung,"Samsung Galaxy M13 (Aqua Green, 4GB, 64GB Storage)",https://www.amazon.in/Samsung-Galaxy-Storage-6000mAh-Battery/product-reviews/B0B4F2TTTS/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_9,Samsung,"Samsung Galaxy M04 Dark Blue, 4GB RAM, 64GB Storage",https://www.amazon.in/Samsung-Storage-MediaTek-Octa-core-Processor/product-reviews/B0BMGB3CH9/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_10,Samsung,"Samsung Galaxy M33 5G (Deep Ocean Blue, 8GB, 128GB Storage)",https://www.amazon.in/Samsung-Storage-6000mAh-Purchased-Separately/product-reviews/B09TWH8YHM/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_11,Samsung,"Samsung Galaxy M14 5G (ICY Silver, 4GB, 128GB Storage)",https://www.amazon.in/Samsung-Storage-Battery-Octa-Core-Processor/product-reviews/B0BZCSMP95/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_12,OnePlus,"OnePlus 11 5G (Titan Black, 8GB RAM, 128GB Storage)",https://www.amazon.in/OnePlus-Titan-Black-128GB-Storage/product-reviews/B0BQJMRXQV/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_13,OnePlus,"OnePlus 10 Pro 5G (Emerald Forest, 8GB RAM, 128GB Storage)",https://www.amazon.in/OnePlus-Emerald-Forest-128GB-Storage/product-reviews/B09V2LX1R4/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_14,OnePlus,"OnePlus 9R 5G (Carbon Black, 12GB RAM, 256 GB Storage)",https://www.amazon.in/Test-Exclusive_2020_1179-Multi-3GB-Storage/product-reviews/B089MS8WHL/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_15,Xiaomi,"Xiaomi 13 Pro (Ceramic Black, 12GB RAM 256GB Storage)",https://www.amazon.in/Xiaomi-13-Pro-Ceramic-Professional/product-reviews/B0BVMP4NGL/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_16,Xiaomi,Mi 11X Cosmic Black 6GB RAM 128GB ROM Storage 5G,https://www.amazon.in/11X-Cosmic-Black-128GB-Storage/product-reviews/B085J1QWFV/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_17,Xiaomi,Xiaomi 11 Lite NE 5G (Jazz Blue 6GB RAM 128 GB Storage),https://www.amazon.in/Xiaomi-Slimmest-Smartphone-Additional-Available/product-reviews/B09G38DT4B/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_18,Xiaomi,"Xiaomi 12 Pro | 5G (Noir Black, 12GB RAM, 256GB Storage)",https://www.amazon.in/Xiaomi-Storage-Snapdragon-Flagship-Cameras/product-reviews/B09XB8RRMV/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_19,Realme,"realme narzo 50 5G (Hyper Blue, 4GB RAM+64GB Storage)",https://www.amazon.in/realme-Storage-Dimensity-Processor-Camera/product-reviews/B09ZBF5Y4J/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Data_20,Realme,"realme narzo N55 (Prime Black, 4GB+64GB)",https://www.amazon.in/realme-Segment-Fastest-Charging-High-res/product-reviews/B0BZ48VZMR/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
